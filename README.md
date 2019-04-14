@@ -26,11 +26,11 @@
 ---
 ## Выполнение задания
 ### Тестовая среда 
-Python 3.7.(*).
-JetBrains PyCharm 2019.1.1.
-Selenium WebDriver 3.9...
-Chromedriver 74.0...
-Requests
+* Python 3.7.(*).
+* JetBrains PyCharm 2019.1.1.
+* Selenium WebDriver 3.9...
+* Chromedriver 74.0...
+* Requests
 ### Примечание к скрипту yandex_script_1.py
 ---
 Я изменил условия: вместо поиска по слову "Тензор" использовал поисковый запрос "Тензор tensor.ru". Это сделано по причине того, что поиск по слову "Тензор" не выдавал сайт tensor.ru первой строчкой поисковой выдачи. 
