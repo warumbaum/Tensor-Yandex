@@ -26,6 +26,7 @@
 ---
 ## Выполнение задания
 ### Тестовая среда 
+* Windows 7, 8, 8.1, 10. 
 * Python 3.7.(*).
 * JetBrains PyCharm 2019.1.1.
 * Selenium WebDriver 3.9...
